@@ -10,4 +10,5 @@ variable "gh_token" {
 
 variable "gh_organization" {
   type = string
+  default = "kaluzaaa"
 }
